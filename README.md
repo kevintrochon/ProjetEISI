@@ -70,14 +70,14 @@ Après avoir appuyer sur le bouton export nous enregistrons la transaction :
 ![image](./image/console_backend.png)
 
 Du côté de Ganache, nous retrouvons cette enregistrement :
-![image](./image/Ganache_1.png)
+![image](./image/ganache_1.png)
 
 au niveau des Blocks :
-![image](./image/Ganache_2.png)
+![image](./image/ganache_2.png)
 
 l'enregistrement au niveau des transactions :
-![image](./image/Ganache_3.png)
+![image](./image/ganache_3.png)
 
 Et en dernier les logs sur la transaction :
-![image](./image/Ganache_log_1.png)
-![image](./image/Ganache_log_2.png)
+![image](./image/ganache_log_1.png)
+![image](./image/ganache_log_2.png)
